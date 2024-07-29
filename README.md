@@ -20,6 +20,11 @@ GitHub에서 직접 모듈을 설치할 수 있습니다. 다음 명령어를 �
 pip install git+https://github.com/everyshare/naver_news_crawler.git
 ```
 
+추가 요구 사항 설치
+```bash
+pip install -r requirements.txt
+```
+
 설치가 완료되면 `playwright` 브라우저를 설치해야 합니다:
 
 ```bash
