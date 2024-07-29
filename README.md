@@ -17,7 +17,7 @@
 GitHub에서 직접 모듈을 설치할 수 있습니다. 다음 명령어를 사용하여 설치하십시오:
 
 ```bash
-pip install git+https://github.com/yourusername/naver_news_crawler.git
+pip install git+https://github.com/everyshare/naver_news_crawler.git
 ```
 
 설치가 완료되면 `playwright` 브라우저를 설치해야 합니다:
